@@ -1,0 +1,1 @@
+// simple DOM manipulation to create behaviour to your web app
